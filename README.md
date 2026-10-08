@@ -1,2 +1,3 @@
 # Übung 1
-## Vulkan Mexiko Höhenmodell
+## Beispiel 1
+Vulkan Mexiko Höhenmodell
